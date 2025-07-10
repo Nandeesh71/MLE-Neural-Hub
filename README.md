@@ -12,7 +12,7 @@
   </div>
 
   <div>
-    <p style="font-weight: 700; font-size: 18px; margin: 0 0 6px;">🌐 Explore my Professional Portfolio</p>
+    <p style="font-weight: 700; font-size: 18px; margin: 0 0 6px;">🌐 Explore my Portfolio</p>
     <a href="https://nandeesh-71.web.app" target="_blank" rel="noopener" title="Visit my Portfolio" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
     </a>
