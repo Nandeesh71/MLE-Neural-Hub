@@ -1,31 +1,23 @@
  *"Predicting the future isn’t magic, it’s artificial intelligence."*
 -------------------------------------------------------------------------------------------------------
 > Get In Touch :
-<h2>🔗 Connect with Me</h2>
 
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 320px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="28" height="28" style="display: block;"/>
-    <div>
-      <p style="margin: 0; font-weight: 700; font-size: 18px; color: #0A66C2;">Connect with me on LinkedIn</p>
-      <a href="https://www.linkedin.com/in/nandeesh71" target="_blank" rel="noopener" title="Visit my LinkedIn Profile" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-      </a>
-    </div>
-  </div>
+  <a href="https://www.linkedin.com/in/nandeesh71" target="_blank" rel="noopener" title="Visit my LinkedIn Profile"
+     style="display: flex; align-items: center; gap: 8px; text-decoration: none; background-color: #0077B5; padding: 8px 14px; border-radius: 6px; color: white; font-weight: 700; font-size: 16px; max-width: fit-content;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" />
+    Connect with me on LinkedIn
+  </a>
 
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webflow.svg" alt="Portfolio" width="28" height="28" style="display: block;"/>
-    <div>
-      <p style="margin: 0; font-weight: 700; font-size: 18px; color: #000000;">Explore my professional portfolio</p>
-      <a href="https://nandeesh-71.web.app" target="_blank" rel="noopener" title="Visit my Portfolio" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
-      </a>
-    </div>
-  </div>
+  <a href="https://nandeesh-71.web.app" target="_blank" rel="noopener" title="Visit my Portfolio"
+     style="display: flex; align-items: center; gap: 8px; text-decoration: none; background-color: #000000; padding: 8px 14px; border-radius: 6px; color: white; font-weight: 700; font-size: 16px; max-width: fit-content;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/webflow.svg" alt="Portfolio" width="24" height="24" />
+    Explore my professional portfolio
+  </a>
   
 </div>
+
 
 -------------------------------------------------------------------------------------------------------
 
