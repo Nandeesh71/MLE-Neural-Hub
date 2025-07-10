@@ -1,6 +1,6 @@
  *"Predicting the future isn’t magic, it’s artificial intelligence."*
-
-> ## 🔗 Connect with Me :
+-------------------------------------------------------------------------------------------------------
+> Connect with Me :
 
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 300px;">
 
