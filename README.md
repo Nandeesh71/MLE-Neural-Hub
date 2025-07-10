@@ -1,10 +1,6 @@
  *"Predicting the future isn’t magic, it’s artificial intelligence."*
 
-
-> 🔗 Connect with Me:
-
-
-## 🔗 Connect with Me
+> ## 🔗 Connect with Me :
 
 <div style="display: flex; flex-direction: column; gap: 20px; max-width: 300px;">
 
@@ -21,22 +17,7 @@
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
     </a>
   </div>
-
-  <div>
-    <p style="font-weight: 700; font-size: 18px; margin: 0 0 6px;">🐙 Check out my GitHub Projects</p>
-    <a href="https://github.com/nandeesh71" target="_blank" rel="noopener" title="Visit my GitHub" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
-  </div>
-
 </div>
-
-
-Want me to create a **horizontal version with icon + text inline**, or maybe a **two-column grid**?  
-Or even a **custom badge color scheme** to match your personal brand?
-
-Just say the word, Surgeon!
-
 
 -------------------------------------------------------------------------------------------------------
 
