@@ -4,24 +4,33 @@
 > 🔗 Connect with Me:
 
 
-## 🚀 Connect with Me
+## 🔗 Connect with Me
 
-| Platform   | Action                                  |
-|------------|----------------------------------------|
-| 🔗 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandeesh71 "Visit my LinkedIn Profile") |
-| 🌐 **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=web&logoColor=white)](https://nandeesh-71.web.app "Explore my Professional Portfolio") |
-| 🐱‍💻 **GitHub**   | [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandeesh71 "Check out my GitHub Repositories") |
+<div style="display: flex; flex-direction: column; gap: 20px; max-width: 300px;">
 
----
+  <div>
+    <p style="font-weight: 700; font-size: 18px; margin: 0 0 6px;">🤝 Connect with me on LinkedIn</p>
+    <a href="https://www.linkedin.com/in/nandeesh71" target="_blank" rel="noopener" title="Visit my LinkedIn Profile" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+  </div>
 
-### Why this rocks:
-- **Table layout** keeps everything aligned and neat
-- Bold platform names with relevant **emojis** for quick visual scanning
-- Large **badge buttons** as clear clickable CTAs
-- Tooltips on hover to explain exactly what clicking does
-- Clean minimalistic design that looks professional on any screen
+  <div>
+    <p style="font-weight: 700; font-size: 18px; margin: 0 0 6px;">🌐 Explore my Professional Portfolio</p>
+    <a href="https://nandeesh-71.web.app" target="_blank" rel="noopener" title="Visit my Portfolio" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge" />
+    </a>
+  </div>
 
----
+  <div>
+    <p style="font-weight: 700; font-size: 18px; margin: 0 0 6px;">🐙 Check out my GitHub Projects</p>
+    <a href="https://github.com/nandeesh71" target="_blank" rel="noopener" title="Visit my GitHub" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    </a>
+  </div>
+
+</div>
+
 
 Want me to create a **horizontal version with icon + text inline**, or maybe a **two-column grid**?  
 Or even a **custom badge color scheme** to match your personal brand?
