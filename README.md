@@ -1,4 +1,4 @@
-> *"Predicting the future isn’t magic, it’s artificial intelligence."*
+ *"Predicting the future isn’t magic, it’s artificial intelligence."*
 
 ⚙️ Setup Instructions:
 
@@ -13,6 +13,12 @@ Please install them manually as needed using one of the following methods:
 
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras torch nltk spacy transformers
 
+📌 For conda users:
+
+conda install pandas numpy matplotlib seaborn scikit-learn
+conda install -c conda-forge tensorflow keras pytorch nltk spacy transformers
+
+> 📍 If you're unsure which libraries are needed, check the top of the Python script or notebook.
 
 #To Clone the repository:
 
