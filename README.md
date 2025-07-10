@@ -3,9 +3,9 @@
 
 > 🔗 Connect with Me:
 
-🤝 LinkedIn – Nandeesh
+🤝 LinkedIn – https://www.linkedin.com/in/nandeesh71
 
-🌐 Portfolio – nandeesh-71.web.app
+🌐 Portfolio – https://nandeesh-71.web.app
 
 
 ⚙️ Setup Instructions:
