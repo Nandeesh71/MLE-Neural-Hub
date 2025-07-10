@@ -3,9 +3,8 @@
 
 > 🔗 Connect with Me:
 
-🤝 LinkedIn – https://www.linkedin.com/in/nandeesh71
-
-🌐 Portfolio – https://nandeesh-71.web.app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandeesh71)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nandeesh-71.web.app)
 
 -------------------------------------------------------------------------------------------------------
 
