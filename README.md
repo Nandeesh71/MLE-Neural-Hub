@@ -1,5 +1,13 @@
  *"Predicting the future isn’t magic, it’s artificial intelligence."*
 
+
+> 🔗 Connect with Me:
+
+🤝 LinkedIn – Nandeesh
+
+🌐 Portfolio – nandeesh-71.web.app
+
+
 ⚙️ Setup Instructions:
 
 ✅ Prerequisites
