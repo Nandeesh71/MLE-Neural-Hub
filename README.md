@@ -2,13 +2,20 @@
 -------------------------------------------------------------------------------------------------------
 > 🔗 Get In Touch :
 
+## 🔗 Get In Touch
+
 **Connect with me on LinkedIn:**  
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" height="24" style="vertical-align:middle;"/>](https://www.linkedin.com/in/nandeesh71)  
-[LinkedIn Profile](https://www.linkedin.com/in/nandeesh71)
+<a href="https://www.linkedin.com/in/nandeesh71" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="24" style="vertical-align:middle;"/>
+  <span style="font-size: 16px; font-weight: 600; vertical-align:middle;"> LinkedIn Profile</span>
+</a>
 
 **Visit my professional portfolio:**  
-[<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Portfolio" width="24" height="24" style="vertical-align:middle;"/>](https://nandeesh-71.web.app)  
-[Portfolio Website](https://nandeesh-71.web.app)
+<a href="https://nandeesh-71.web.app" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" alt="Portfolio" width="24" style="vertical-align:middle;"/>
+  <span style="font-size: 16px; font-weight: 600; vertical-align:middle;"> Portfolio Website</span>
+</a>
+
 
 -------------------------------------------------------------------------------------------------------
 
