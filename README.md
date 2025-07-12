@@ -38,7 +38,7 @@ conda install -c conda-forge tensorflow keras pytorch nltk spacy transformers
 -------------------------------------------------------------------------------------------------------
 
 
-> 🧑🏻‍💻** To Clone the repository:**
+> 🧑🏻‍💻 **To Clone the repository:**
 ```bash
 git clone https://github.com/nandeesh71/MLE-Neural-Hub.git
 
